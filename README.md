@@ -1,125 +1,69 @@
-<h3 align="center">
+<h1 align="center">Hi There!!, I'm MoHaMeD 👋 </h1>
 
-Computer Science Student | Software Developer | Tech Enthusiast </h3>
+<h3 align="center">Computer Science Student | Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-
-<img
-
-src="https://img.shields.io/badge/LinkedI
-
-n-Connect-blue?style=for-the-badge&logo
-
-=linkedin" />
-
-</a>
-
-<img
-
-<a href="mailto:YOUR_EMAIL">
-
-src="https://img.shields.io/badge/Email
-
--Contact_Me-red?style=for-the-badge&
-
-logo=gmail" />
-
-</a>
-
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-## About Me
+---
 
-I'm YOUR NAME, a passionate developer interested in building useful applications and improving my software development skills.
+## 💻 About Me
 
-Student/ Graduate of *YOUR UNIVERSITY*
+I'm Mr7 a passionate developer interested in building useful applications, exploring system internals, and continuously improving my software development skills.
 
-Interested in *Web / Mobile / Al /Data Science*
+- 🎓 Student at SOHAG University
+- 🔭 Focused on building practical tools, automation scripts, and mobile/web solutions.
+- ⚡ Always learning, experimenting, and optimizing workflows.
 
-TECHNOLOGY* Currently learning *YOUR CURRENT
+---
 
-Building practical projects to improve
-
-my skills
-
-TARGET ROLE* Goal: Become a professional *YOUR
-
-## Technical Skills
+## 🛠️ Technical Skills
 
 ### Programming Languages
-
--C++
-
 - Python
-
-- Java
-
-- Dart
-
+- C++
+- More coming⌛
 ### Technologies & Frameworks
-
-- Flutter
-
-- Django
-
+- Vibe coding and AI Agents/REV Engineering
+&& Opencode/Cursor/..etc &&
 - Firebase
+- SQL / T-SQL
 
-- SQL
-
-### Tools
-
-- Git
-
-- GitHub
-
+### Tools & Environment
+- Git & GitHub
 - VS Code
+- ADB / Shizuku Utilities
+- Linux / Android Environments
 
-- Postman
+---
 
-- Figma
+## 🚀 Featured Projects
 
-امسح أي Technology أنت مش بتستخدمها
+- Technologies: Python / SQL
 
-وضيف ال Skills بتاعتك.
+---
 
-## Featured Projects
+## 📚 Currently Learning
+- Advanced Data Structures & Algorithms
+- Software Engineering & Clean Architecture
+- Performance Optimization for Low-Spec Hardware
 
-### Project One
+---
 
-*Short description of your project.*
-
-*Technologies:* Flutter Dart Firebase
-
-[View Project] (YOUR_PROJECT_LINK)
-
-### Project Two
-
-*Short description explaining what the project does.*
-
-*Technologies:* Python Machine Learning
-
-[View Project](YOUR_PROJECT_LINK)
-
-##Currently Learning
-
-- Data Structures & Algorithms
-
-- Software Engineering - Machine Learning
-
-- Mobile Development
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<img
+---
 
-src="https://github-readme-stats.vercel.a
-
-show_icons=true"
-
-pp/api?username=YOUR_USERNAME&
-
-alt="GitHub Stats"
+<p align="center">
+  <i>"Keep learning🤍. Keep building🪽."</i>
+</p>
